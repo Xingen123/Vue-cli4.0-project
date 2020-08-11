@@ -1,10 +1,13 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
+    <img
+      alt="Vue logo"
+      src="./assets/logo.png"
+    />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <div class="app_img">
       <div>
-        sdadaddsasdadaddsasdadaddsasdadaddsasdadaddsasdadaddsasdadaddsa
+        xxxxxxxa
       </div>
     </div>
   </div>
@@ -20,7 +23,7 @@ export default {
   components: {
     HelloWorld
   },
-  mounted() {
+  mounted () {
     axios({
       method: 'GET',
       url: 'api/user',
