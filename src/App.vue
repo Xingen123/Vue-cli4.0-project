@@ -7,7 +7,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <div class="app_img">
       <div>
-        xxxxxxxa
+        XE
       </div>
     </div>
   </div>
