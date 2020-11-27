@@ -2,7 +2,7 @@
   <div id="app">
     <img
       alt="Vue logo"
-      src="./assets/logo.jpg"
+      src="./assets/1.jpg"
     />
   </div>
 </template>
